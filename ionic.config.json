@@ -1,0 +1,7 @@
+{
+  "name": "WakeAppIonic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
